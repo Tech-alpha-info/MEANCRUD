@@ -86,6 +86,8 @@ NG Toast - Pop up notifications for Angular - http://tamerayd.in/ngToast/
 ## Tutorials etc I've used to get this together
 
 http://embed.plnkr.co/WLuKSRX5GqH4rXFhGuyo/ (Grid)
+
 https://www.djamware.com/post/58cf4e1c80aca72df8d1cf7e/tutorial-building-crud-app-from-scratch-using-mean-stack-angular-2 (Crud)
+
 http://plnkr.co/edit/hSzwlzUmRQoUtZJke2C4?p=preview (Trix)
 
